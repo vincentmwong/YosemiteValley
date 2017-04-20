@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 971f5bec433755243b58f27a3fa61b7b
+timeCreated: 1442168657
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Caravan: {instanceID: 0}
+  - Heroes: {instanceID: 0}
+  - GameManager: {fileID: 115284, guid: 246ad88628430a343a32dbe3ae5fdecd, type: 2}
+  - city_contents: {instanceID: 0}
+  - this_spriteRenderer: {instanceID: 0}
+  - boardManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
